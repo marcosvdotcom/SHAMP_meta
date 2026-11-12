@@ -5,19 +5,20 @@ layout: page
 
 # Literature Review and Metasynthesis for SHAMP
 
-Marco Seiferle-Valencia, Associate Professor, Open Education Librarian ([marcosv@uidaho.edu](mailto:marcosv@uidaho.edu))
+This guide to getting strated with literature reviews and metasynthesis was created by:
 
-Jylisa Kenyon, Associate Professor, Social Sciences Librarian ([jylisadoney@uidaho.edu](mailto:jylisadoney@uidaho.edu))
+- Marco Seiferle-Valencia, Associate Professor, Open Education Librarian ([marcosv@uidaho.edu](mailto:marcosv@uidaho.edu))
 
-This workshop orients you to the fundamentals of a scholarly literature review and metasynthesis.
+- Jylisa Kenyon, Associate Professor, Social Sciences Librarian ([jylisadoney@uidaho.edu](mailto:jylisadoney@uidaho.edu))
 
-## Goals for today
 
-- Orient you to the fundamentals of a scholarly literature review and metasynthesis:
+## Learning Goals
+
+- Orient you to the fundamentals of a scholarly literature review
   - Developing and refining your keyword search
   - Database selection and review
   - Tracking search processes
-- Take a closer look at keywords
+- Taking a closer look at keywords
   - How to go from topic to keywords
 - Learn what metasynthesis is and how to get started
 
