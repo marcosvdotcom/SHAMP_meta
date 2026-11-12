@@ -33,7 +33,7 @@ github_username:
 # year or date published
 pub_year: 2026
 # location of code, the full url to your github repository
-source-code: https://github.com/marcosvdotcom/SHAMP_meta
+source-code: https://github.com/marcosvdotcom/SHAMP-meta
 
 ##########
 # URL VARIABLES [optional!!]
