@@ -3,22 +3,26 @@ title: Home
 layout: page
 ---
 
-# Bootstrap Workshop Template!
+# Literature Review and Metasynthesis for SHAMP
 
-{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
+Marco Seiferle-Valencia, Associate Professor, Open Education Librarian ([marcosv@uidaho.edu](mailto:marcosv@uidaho.edu))
 
-A minimal Jekyll theme with Bootstrap for creating workshop websites.
+Jylisa Kenyon, Associate Professor, Social Sciences Librarian ([jylisadoney@uidaho.edu](mailto:jylisadoney@uidaho.edu))
 
-*Add your workshop abstract here!*
+This workshop orients you to the fundamentals of a scholarly literature review and metasynthesis.
 
-Learn how to create a super quick easy website for a workshop by writing a few markdown files! 
-Host it for free on GitHub with gh-pages, and share!
-Fun!
+## Goals for today
 
-*See also:* [workshop-template](https://evanwill.github.io/workshop-template/), original minimal version.
+- Orient you to the fundamentals of a scholarly literature review and metasynthesis:
+  - Developing and refining your keyword search
+  - Database selection and review
+  - Tracking search processes
+- Take a closer look at keywords
+  - How to go from topic to keywords
+- Learn what metasynthesis is and how to get started
 
 {% include toc.html %}
 
-------
+* * *
 
 {% include template/credits.html %}
