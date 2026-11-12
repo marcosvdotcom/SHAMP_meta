@@ -19,13 +19,21 @@ description: Why we do literature reviews, how metasynthesis differs, and what m
 	- Analysis and interpretation of the matrix findings
 	- How does the current or proposed research support or build upon the findings from the research matrix?
 
-> [!NOTE] 
 > Metasynthesis can generate new findings from existing research all by itself, or it can be combined with fresh research to update the knowledge field on a topic.
 
 ## Key aspects of SHAMP literature review and metasynthesis
 
 - **Reproducible process.** It is important to show your work, which means tracking:
-  - Search strings/queries, including iterations
-  - Number of results returned
+  - Search strings/queries, including the phrases you cycled through
   - Where the search was conducted
+  - When you searched
+  - Number of results returned
+  	> - Example:<br>
+  			- "11/20/2026 PubMed <br>
+  			- (community heart health education) AND (rural) Filters: in the last 5 years <br>
+  			- Returns 287 results"
+
 - **Defined keywords and search parameters** to support a multi-researcher search process.
+	- Be flexible in your initial searching to get the right terms dialed in
+	- Datasets should be appropriately sized to the number of researchers and time of the project, as balanced with accurantely covering the literature
+

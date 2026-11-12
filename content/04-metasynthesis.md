@@ -11,7 +11,8 @@ Metasynthesis is a method of research that allows us to generate new findings fr
 
 - Identifying the key elements of concern, which might be:
   - A particular intervention
-  - A study style, format, or demographic ("all studies on rural Idahoans")
+  - A study style or format
+  - Target populations or key demographics
 - Creating a comparison matrix to understand how individual studies relate to one another
 - Synthesizing results from the comparison matrix to generate new understanding
   - You may then test how your own work or study aligns with those findings

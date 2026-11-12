@@ -18,6 +18,8 @@ description: Where to search, how to track your citations, and how to keep a rep
 
 Use **Zotero**!
 
+Library workshop link to Zotero sessions 
+
 ## Strategies for keeping track of search processes
 
 - Turn on save search history wherever possible.
