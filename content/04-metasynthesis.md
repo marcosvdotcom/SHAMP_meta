@@ -30,3 +30,46 @@ Metasynthesis is a method of research that allows us to generate new findings fr
 - Identifying and committing to your search string, then not deviating from it
 - Search sets can vary in size and complexity. Even a strong search can still return hundreds of articles to review.
 - Applying your evaluation rubric consistently, which is multiplied by having multiple researchers on the project
+
+## Question formulation and chunking
+
+PICo / PICOS / SPIDER. These are frameworks for breaking a research question into searchable parts, or chunks. PICO (Population, Intervention, Comparison, Outcome) comes from clinical research. SPIDER (Sample, Phenomenon of Interest, Design, Evaluation, Research type) adapts it for qualitative and mixed-methods questions. Fill in each element for your topic, then turn each one into search terms. A later comparison study found SPIDER was more specific but missed more relevant papers than PICO, so students may want to try PICOS (PICO plus study type) when they need a broader search.
+[Cooke A, Smith D, Booth A. Beyond PICO: the SPIDER tool for qualitative evidence synthesis. Qual Health Res. 2012 Oct;22(10):1435-43. doi: 10.1177/1049732312452938. Epub 2012 Jul 24. PMID: 22829486.](https://pubmed.ncbi.nlm.nih.gov/22829486/)
+
+## Frameworks for Systematic Review
+
+PRISMA 2020. This is a 27-item checklist and flow diagram for reporting what you did and found in a systematic review. Use the flow diagram to show how many records you identified, screened, and included, and use the checklist to check your write-up. It was designed for systematic reviews generally, not specifically for qualitative ones, so pair it with ENTREQ for a metasynthesis.
+[PRISMA 2020](prisma-statement.org)
+
+PRISMA-S. This extension has 16 items for reporting your literature search so that someone else could reproduce it. Use it to record each database, the exact search strings, any filters or limits, and the dates you searched. It fits well with the Search & Track page of your guide.
+[Rethlefsen et al. (2021), PRISMA-S](https://link.springer.com/article/10.1186/s13643-020-01542-z)
+
+ENTREQ. This is a 21-item reporting guideline made specifically for syntheses of qualitative research. Its items cover the aim, the synthesis methodology, searching, screening, appraisal, and how findings were synthesized. Students should use it as a checklist when drafting the methods section of a metasynthesis.
+[Tong A, Flemming K, McInnes E, Oliver S, Craig J. (2012). Enhancing transparency in reporting the synthesis of qualitative research: ENTREQ. BMC Medical Research Methodology, 12, 181.](https://doi.org/10.1186/1471-2288-12-181)
+
+## Appraising studies
+
+**CASP Qualitative Checklist.** This checklist uses about ten questions to judge whether a qualitative study's aims, design, recruitment, analysis, and findings are sound. Students should answer each question as Yes, No, or Can't tell for every included study, and treat the checklist as a prompt for judgment rather than a pass/fail score. CASP's own guidance warns against scoring it that way.
+
+[CASP Qualitative Checklist (2024)](https://casp-uk.net/casp-checklists/CASP-checklist-qualitative-2024.pdf)
+
+**JBI Critical Appraisal Checklist for Qualitative Research.** This 10-item checklist focuses on whether a study's philosophical stance, methodology, data collection, and interpretation fit together. It works best if you are following the JBI meta-aggregation method, and two reviewers should appraise each study independently. JBI updates its tools periodically, so confirm students are using the current version.
+
+[JBI Checklist for Qualitative Research](https://jbi.global/sites/default/files/2020-07/Checklist_for_Qualitative_Research.pdf)
+
+**MMAT (Mixed Methods Appraisal Tool).** This tool appraises qualitative, quantitative, and mixed-methods studies with one instrument, using five core criteria per design. Use it when your review includes more than one study type. First classify each study's design, then apply that category's criteria.
+
+[MMAT 2018 (Hong et al.)](https://doi.org/10.3233/EFI-180221)
+
+## Confidence in findings
+
+**GRADE-CERQual.** This approach rates how much confidence to place in each synthesized finding, using four components: methodological limitations, coherence, adequacy of data, and relevance. Apply it at the end, after your findings are drafted. Assess each finding against the components and record the result in a Summary of Qualitative Findings table. Cochrane now recommends it for all of its qualitative evidence syntheses.
+
+[Lewin et al. (2018), CERQual introduction](https://www.pubmed.gov/29384079/)
+
+## Overall guidance
+
+**Cochrane-Campbell Handbook for Qualitative Evidence Synthesis.** This is the official step-by-step guide to qualitative evidence synthesis. It covers question setting, searching, appraisal, choosing a synthesis method, reporting, and CERQual. Chapters on framework synthesis, thematic synthesis, and meta-ethnography are the best starting points, and chapter 14 covers integrating qualitative and quantitative evidence. The chapters are free but require a Cochrane account.
+
+[Cochrane-Campbell Handbook](https://www.cochrane.org/authors/handbooks-and-manuals/cochrane-campbell-handbook-qualitative-evidence-synthesis)
+
