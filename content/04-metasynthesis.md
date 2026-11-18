@@ -39,7 +39,7 @@ PICo / PICOS / SPIDER. These are frameworks for breaking a research question int
 ## Frameworks for Systematic Review
 
 PRISMA 2020. This is a 27-item checklist and flow diagram for reporting what you did and found in a systematic review. Use the flow diagram to show how many records you identified, screened, and included, and use the checklist to check your write-up. It was designed for systematic reviews generally, not specifically for qualitative ones, so pair it with ENTREQ for a metasynthesis.
-[PRISMA 2020](prisma-statement.org)
+[PRISMA 2020](https://prisma-statement.org)
 
 PRISMA-S. This extension has 16 items for reporting your literature search so that someone else could reproduce it. Use it to record each database, the exact search strings, any filters or limits, and the dates you searched. It fits well with the Search & Track page of your guide.
 [Rethlefsen et al. (2021), PRISMA-S](https://link.springer.com/article/10.1186/s13643-020-01542-z)
