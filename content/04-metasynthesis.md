@@ -63,13 +63,8 @@ ENTREQ. This is a 21-item reporting guideline made specifically for syntheses of
 
 ## Confidence in findings
 
-**GRADE-CERQual.** This approach rates how much confidence to place in each synthesized finding, using four components: methodological limitations, coherence, adequacy of data, and relevance. Apply it at the end, after your findings are drafted. Assess each finding against the components and record the result in a Summary of Qualitative Findings table. Cochrane now recommends it for all of its qualitative evidence syntheses.
+**GRADE-CERQual.** This approach rates how much confidence to place in each synthesized finding, using four components: methodological limitations, coherence, adequacy of data, and relevance. Apply it at the end, after your findings are drafted. Assess each finding against the components and record the result in a Summary of Qualitative Findings table. 
 
 [Lewin et al. (2018), CERQual introduction](https://www.pubmed.gov/29384079/)
 
-## Overall guidance
-
-**Cochrane-Campbell Handbook for Qualitative Evidence Synthesis.** This is the official step-by-step guide to qualitative evidence synthesis. It covers question setting, searching, appraisal, choosing a synthesis method, reporting, and CERQual. Chapters on framework synthesis, thematic synthesis, and meta-ethnography are the best starting points, and chapter 14 covers integrating qualitative and quantitative evidence. The chapters are free but require a Cochrane account.
-
-[Cochrane-Campbell Handbook](https://www.cochrane.org/authors/handbooks-and-manuals/cochrane-campbell-handbook-qualitative-evidence-synthesis)
 
