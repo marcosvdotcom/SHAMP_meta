@@ -33,7 +33,7 @@ github_username:
 # year or date published
 pub_year: 2026
 # location of code, the full url to your github repository
-source-code: https://github.com/marcosvdotcom/SHAMP
+source-code: https://github.com/marcosvdotcom/SHAMP_meta
 
 ##########
 # URL VARIABLES [optional!!]
@@ -47,7 +47,7 @@ url: https://marcosv.github.io
 # use baseurl to add subsection of the domain, e.g. /workshop-template-b
 # on gh-pages this is a / followed by the name of the repository
 # baseurl is your github repository's name prefixed with a /
-baseurl: /SHAMP_meta
+baseurl: /SHAMP
 
 
 ##########
